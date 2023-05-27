@@ -11,6 +11,8 @@
 - start from <a href="https://www.linkedin.com/in/mohammed-abdul-lateef-1541b2179" target="_blank">Linkedin</a>
 - can have chat from whatsapp as well [Whatsapp](https://wa.me/9491058915?text=Hi%20Lateef!%20I%20just%20visited%20your%20Github%20profile%20and%20I'm%20interested%20in%20connecting%20with%20you%20to%20discuss%20awesome%20code%20stuff...😃😃)
 
+Moving further checkout my portfolio at [Portfolio](https://lateefcode2101.github.io/malateefz_portfolio/)
+
 <!---
 lateefcode2101/lateefcode2101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
